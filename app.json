@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "SKCT",
+    "slug": "SKCT",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+        "package": "com.varsh1408.SKCT",
+        "versionCode": 1
+      }
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+
